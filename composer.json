@@ -1,0 +1,19 @@
+{
+    "name": "fastdfs/fastdfs",
+    "authors": [
+        {
+            "name": "qpwoeiru96",
+            "email": "qpwoeiru96@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/glary789/PHP-FastDFS-Client"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"FastDFS\\": "src/"}
+    },
+    "version": "1.0.0"
+}
